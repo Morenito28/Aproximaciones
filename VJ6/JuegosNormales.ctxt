@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JuegosNormales
+comment1.params=Codigo\ Nombre\ Categoria\ Ventas
+comment1.target=JuegosNormales(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ caucularVentas()
+comment3.params=
+comment3.target=int\ getVentas()
+comment4.params=Ventas
+comment4.target=void\ setVentas(int)
+numComments=5
